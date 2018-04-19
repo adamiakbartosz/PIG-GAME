@@ -1,5 +1,7 @@
 My first web application from: https://www.udemy.com/the-complete-javascript-course/learn/v4/content
 
+Icon made by Freepik from www.flaticon.com 
+
 I will try to recreate the JavaScript code as much as possible.
 
 Live version : https://adamiakbartosz.github.io/PIG-GAME/
