@@ -4,6 +4,7 @@ I will try to recreate the JavaScript code as much as possible.
 
 Live version : https://adamiakbartosz.github.io/PIG-GAME/
 
+![image](https://user-images.githubusercontent.com/34771024/39017967-09c4dac2-4425-11e8-90b0-208b4a85e2bb.png)
 
  ## GAME RULES
 - The game has 2 players, playing in rounds
