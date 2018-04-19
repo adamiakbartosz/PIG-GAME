@@ -1,5 +1,7 @@
 My first web application from: https://www.udemy.com/the-complete-javascript-course/learn/v4/content
+
 I will try to recreate the JavaScript code as much as possible.
+
 Live version : https://adamiakbartosz.github.io/PIG-GAME/
 
 
@@ -10,7 +12,7 @@ Live version : https://adamiakbartosz.github.io/PIG-GAME/
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-VER-2 : upcoming changes
+## VER-2 : upcoming changes
 - add SASS
 - responsive
 - add second dice 
